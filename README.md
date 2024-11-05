@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-![Sorting Visualizer Demo](path_to_demo_gif_or_image)
+! click this link to view the project :   https://sortify-orcin.vercel.app/
 
 A visually engaging web application to help you understand and compare different sorting algorithms! Built with React and react-spring, this Sorting Visualizer showcases sorting algorithms in real-time, adjusting array sizes and speeds for an interactive experience.
 
